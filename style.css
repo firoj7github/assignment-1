@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    padding-left: 110px;
+    padding-top: 110px;
+}
+.header-color{
+    color: peru;
+}
+.first-header{
+    width: 50%;
+}
+.header-1{
+    font-family: 'Frank Ruhl Libre', serif;
+    width: 400px;
+    height: 140px;
+    padding-left: 20px;
+    border-radius: 4px;
+    border-left: 5px solid orange;
+    font-size: 22px;
+}
+.header-2{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.first-header a{
+    background-color: orangered;
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.second-header{
+   width: 50%;
+}
+.second-header img{
+    
+   padding-left: 80px;
+   width: 400px;
+}
+
+.middle-part{
+   margin-top: 50px;
+   font-family: 'Poppins', sans-serif;
+}
+.mission{
+    color: orange;
+}
+.middle{
+    display: flex;
+
+}
+.middle-part h1{
+    text-align: center;
+    margin-top: 50px;
+    color: darkblue;
+    font-weight: 600;
+}
+.middle-1{
+    width: 300px;
+    height: 270px;
+    background-color: rgb(236, 233, 233);
+    margin-left: 75px;
+    padding: 15px 20px;
+    border-radius: 8px;
+}
+
+}
+.middle-1 p{
+text-align: justify;
+}
+.middle-1 img{
+    width: 100px;
+    padding-left: 90px;
+
+}
+.middle-2{
+    width: 300px;
+    height: 270px;
+    background-color: silver;
+    margin-left: 75px;
+    padding: 15px 20px;
+    border-radius: 8px;
+}
+.middle-2 p{
+    text-align: justify;
+    }
+.middle-2 img{
+    width: 100px;
+    padding-left: 90px;
+}
+.middle-3{
+    width: 300px;
+    height: 270px;
+    background-color: peachpuff;
+    margin-left: 75px;
+    padding: 15px 20px;
+    border-radius: 8px;
+}
+.middle-3 p{
+    text-align: justify;
+    }
+.middle-3 img{
+    width: 100px;
+    padding-left: 90px;
+}
+.all-service{
+    display: flex;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(image/cp.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.service-1{
+   width: 50%;
+
+}
+.service-1 img{
+    width: 400px;
+    height: 450px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.service-2{
+    width: 40%;
+    padding-top:190px ;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.service-2 h1{
+    font-weight: 1000px;
+}
+.service-2 a{
+   background-color: orangered;
+    padding: 10px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.service-2 p{
+    text-align: justify;
+}
+.community{
+    display: flex;
+    margin-top: 40px;
+    background-image: url(image/best.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.community-1{
+    width: 40%;
+    padding-top: 160px;
+    padding-left: 70px;
+}
+.community-1 a{
+    background-color: orangered;
+    padding: 10px 10px; 
+    border-radius: 4px; 
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.community-1 p{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.community-2{
+    width: 50%;
+}
+.community-1 h1{
+    font-family: 'Poppins', sans-serif;
+}
+.community-2 img{
+    width: 400px;
+    height: 450px;
+    padding-top: 70px;
+    padding-left: 170px;
+}
+.side{
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    height: 640px;
+}
+.side-header{
+    background-color: orange;
+    color:white;
+    padding:3px;
+    font-weight:bold;
+    text-align:center;
+}
+.icon-set{
+    height:200px;
+    text-align:center;
+    padding-top: 80px;
+}
+.icon-set i{
+    color: palevioletred;
+    display:inline-block;
+    padding:30px;
+}
+.last-part h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: orange;
+}  
+.last-part h2{
+    text-align: center;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    color: orange;
+} 
+.footer-1{
+    background-color: black;
+    height: 150px;
+    padding-top: 25px;
+}
+.footer{
+    margin-top: 40px;
+}
+.footer-1 h1{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-1 h4{
+    color: white;
+    text-align: center;
+}
+.footer-last{
+   color: red;
+}
